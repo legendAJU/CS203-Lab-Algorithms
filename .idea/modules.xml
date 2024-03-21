@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CS203.iml" filepath="$PROJECT_DIR$/CS203.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS203-LAB0/CS203-LAB0.iml" filepath="$PROJECT_DIR$/CS203-LAB0/CS203-LAB0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS203-LAB1/CS203-LAB1.iml" filepath="$PROJECT_DIR$/CS203-LAB1/CS203-LAB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS203-LAB2/CS203-LAB2.iml" filepath="$PROJECT_DIR$/CS203-LAB2/CS203-LAB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS203-LAB3/CS203-LAB3.iml" filepath="$PROJECT_DIR$/CS203-LAB3/CS203-LAB3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS203-LAB4/CS203-LAB4.iml" filepath="$PROJECT_DIR$/CS203-LAB4/CS203-LAB4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS203-LAB5/CS203-LAB5.iml" filepath="$PROJECT_DIR$/CS203-LAB5/CS203-LAB5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS203-LAB6/CS203-LAB6.iml" filepath="$PROJECT_DIR$/CS203-LAB6/CS203-LAB6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS203-LAB7/CS203-LAB7.iml" filepath="$PROJECT_DIR$/CS203-LAB7/CS203-LAB7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS203-LAB8/CS203-LAB8.iml" filepath="$PROJECT_DIR$/CS203-LAB8/CS203-LAB8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS203-LAB9/CS203-LAB9.iml" filepath="$PROJECT_DIR$/CS203-LAB9/CS203-LAB9.iml" />
+    </modules>
+  </component>
+</project>
